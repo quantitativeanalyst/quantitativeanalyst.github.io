@@ -6,19 +6,10 @@
     <description>Recent content on Quantitative Analyst</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2020 23:18:12 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 23:17:54 +0530</lastBuildDate>
     
 	<atom:link href="https://quantitativeanalyst.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Finance</title>
-      <link>https://quantitativeanalyst.github.io/project/finance/</link>
-      <pubDate>Tue, 23 Jun 2020 23:18:12 +0530</pubDate>
-      
-      <guid>https://quantitativeanalyst.github.io/project/finance/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>R</title>
@@ -39,11 +30,20 @@
     </item>
     
     <item>
-      <title>Finance &amp; Coding</title>
-      <link>https://quantitativeanalyst.github.io/finance_coding/</link>
+      <title>Coding</title>
+      <link>https://quantitativeanalyst.github.io/coding/</link>
       <pubDate>Tue, 23 Jun 2020 16:19:56 +0530</pubDate>
       
-      <guid>https://quantitativeanalyst.github.io/finance_coding/</guid>
+      <guid>https://quantitativeanalyst.github.io/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>https://quantitativeanalyst.github.io/finance/</link>
+      <pubDate>Tue, 23 Jun 2020 16:19:56 +0530</pubDate>
+      
+      <guid>https://quantitativeanalyst.github.io/finance/</guid>
       <description></description>
     </item>
     
